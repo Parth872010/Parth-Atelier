@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "country": "India",
+  "emergencyHelplines": [
+    { "name": "National Emergency (Police / Rescue)", "phone": "112", "hours": "24/7" },
+    { "name": "Emergency Ambulance (ASV Transport)", "phone": "108", "hours": "24/7" },
+    { "name": "Forest Department Wildlife Helpline", "phone": "1926", "hours": "24/7" },
+    { "name": "Fire & Rescue Service", "phone": "101", "hours": "24/7" },
+    { "name": "Wildlife SOS (Delhi NCR / Agra / Vadodara)", "phone": "+919871963535", "hours": "24/7" },
+    { "name": "PFA / BBMP Wildlife Rescue (Bengaluru)", "phone": "+919900025370", "hours": "Day & Emergency" },
+    { "name": "RAWW Wildlife Rescue (Mumbai MMR)", "phone": "+917666680202", "hours": "24/7" }
+  ],
+  "bigFourVenomousSnakesIndia": [
+    { "name": "Indian Spectacled Cobra", "scientific": "Naja naja", "venom": "Potent Neurotoxic" },
+    { "name": "Common Indian Krait", "scientific": "Bungarus caeruleus", "venom": "Extreme Neurotoxic (Nocturnal)" },
+    { "name": "Russell's Viper", "scientific": "Daboia russelii", "venom": "Severe Hemotoxic & Cytotoxic" },
+    { "name": "Saw-scaled Viper", "scientific": "Echis carinatus", "venom": "Hemotoxic & Coagulopathic" }
+  ],
+  "firstAidProtocol": {
+    "dos": [
+      "Keep victim calm and still; immobilize bitten limb like a fracture.",
+      "Remove rings, watches, bangles, and tight clothing before swelling starts.",
+      "Dial 108 / 112 immediately and transport to nearest government/tertiary hospital with ASV."
+    ],
+    "donts": [
+      "NEVER tie a tight tourniquet or rope.",
+      "NEVER cut, slash, or try to suck venom from the wound.",
+      "NEVER apply ice, herbs, cow dung, or wait for symptoms at home."
+    ]
+  }
+}

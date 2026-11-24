@@ -1,0 +1,11 @@
+{
+  "name": "ANTIDOTE — India Reptile Identifier & Rescue",
+  "description": "ANTIDOTE: India-wide reptile identification (snakes, lizards, crocodilians, turtles), local area wildlife guide, live GPS tracking, and real hospital & rescuer locator.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
